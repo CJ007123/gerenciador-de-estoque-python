@@ -1,0 +1,19 @@
+# .gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VSCode settings
+.vscode/
+
+# Environment
+.env
+venv/
+.venv/
+
+# MacOS & Linux junk
+.DS_Store
+*.swp
+
