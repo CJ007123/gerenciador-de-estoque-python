@@ -1,4 +1,3 @@
-
 from categoria import Categoria, GerenciadorDeCategoria
 from produtos import Produtos, GerenciadorDeTarefas
 from movimentacao import Movimentacao, GerenciandoMovimentacao
