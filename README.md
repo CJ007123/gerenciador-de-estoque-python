@@ -19,5 +19,11 @@ Este projeto simula um sistema de gerenciamento de estoque com produtos, categor
 
 Para executar todos os testes do projeto:
 
-python run_tests.py
+python run_tests.p 
+
+ ## 🛠️ Tecnologias e ferramentas
+- Python 3.13.5
+- unittest
+- Programação Orientada a Objetos
+- Git/GitHuby
 
