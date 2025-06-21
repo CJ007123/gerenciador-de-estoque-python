@@ -25,5 +25,5 @@ python run_tests.p
 - Python 3.13.5
 - unittest
 - Programação Orientada a Objetos
-- Git/GitHuby
+- Git/GitHub
 
