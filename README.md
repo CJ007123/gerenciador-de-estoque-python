@@ -22,7 +22,7 @@ Para executar todos os testes do projeto:
 python run_tests.py
 
  ## 🛠️ Tecnologias e ferramentas
-- Python 3.13.5
+- Python 3.12.1
 - unittest
 - Programação Orientada a Objetos
 - Git/GitHub
